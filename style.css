@@ -1,0 +1,22 @@
+body {
+  background-color: #36393e;
+  text-align: center;
+}
+
+h1 {
+  color: #7289da;
+}
+
+p {
+  line-height: 1.6;
+  padding: 10px;
+}
+
+/**
+  https://www.color-hex.com/color-palette/28549
+	#36393e	(54,57,62) - background-color
+  #282b30	(40,43,48)
+
+  -Aquaotter 
+  @todo Use better color theme, when website is out!
+*/
